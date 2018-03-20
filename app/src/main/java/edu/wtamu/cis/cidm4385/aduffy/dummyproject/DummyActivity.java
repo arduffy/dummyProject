@@ -9,5 +9,7 @@ public class DummyActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dummy);
+
+        //Amanda's comment for demonstrating branch/merge
     }
 }
