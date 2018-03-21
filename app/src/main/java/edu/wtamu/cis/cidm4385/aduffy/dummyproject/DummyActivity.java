@@ -11,6 +11,8 @@ public class DummyActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dummy);
 
+        //Amanda's comment for demonstrating branch/merge
+
         //Scotty's comment
     }
 }
